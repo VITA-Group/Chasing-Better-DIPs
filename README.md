@@ -59,6 +59,15 @@ python Eval_sparse_PGAN_on_inpainting.py
 ```
 If you find this paper useful, please cite:
 
+@article{
+anonymous2023chasing,
+title={Chasing Better Deep Image Priors between Over- and Under-parameterization},
+author={Anonymous},
+journal={Submitted to Transactions on Machine Learning Research},
+year={2023},
+url={https://openreview.net/forum?id=EwJJks2cSa},
+note={Under review}
+}
 ```
 
 ## Acknowledgment
